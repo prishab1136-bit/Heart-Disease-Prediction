@@ -14,7 +14,7 @@ This project processes tabular diagnostic data (such as age, blood pressure, ser
 
 ---
 
-#Dataset Schema
+#Dataset Scheme
 
 The system relies on clinical dataset metrics (e.g., standard UCI Cleveland Heart Disease dataset) containing 13 predictor features and 1 binary output target label:
 
